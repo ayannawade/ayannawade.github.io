@@ -1,1 +1,1 @@
-#faster update by push
+#faster update by push if site not loading/404
