@@ -1,8 +1,8 @@
 ---
-name: Jane Doe
+name: A. Ayanna Wade
 image: "//placekitten.com/440/440?a=.png"
-credentials: LLB
+credentials: PhD Candidate
 phone_extension: "02"
 ---
 
-Jane has 19 years of experience in law, and specialises in property
+Ayanna has 8+ years of experience in data analysis and visualization.
