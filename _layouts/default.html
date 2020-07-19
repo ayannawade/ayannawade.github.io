@@ -52,13 +52,13 @@
 		{% elsif page.call_to_action == 'Contact' %}
 			<section class="quote-section">
 				<p class="container editable">
-					Feel free to connect with me by email or through social media.
+					Feel free to connect with me by <a href="mailto:{{ site.data.company.contact_email_address }}">email</a> or through social media.
 				</p>
 			</section>
 		{% else %}
 			<section class="quote-section">
 				<p class="container editable">
-					<a href="{{ site.baseurl }}/advice/">Read our published advice</a> for an introduction and quick tips on various areas of the law.
+					<a href="{{ site.baseurl }}/blog/">Read some of my posts</a> to learn more about my experiences.
 				</p>
 			</section>
 		{% endif %}
