@@ -6,10 +6,10 @@
       link: /about/
     - name: CV
       link: /CV/
+    - name: Blog
+      link: /blog/
     - name: Contact
       link: /contact/
-    - name: Advice
-      link: /advice/
 - title: Social
   links:
     - name: Facebook
