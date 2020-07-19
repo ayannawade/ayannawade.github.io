@@ -1,5 +1,3 @@
-Justice
+Justice is a law firm-themed business template for Jekyll that I have extensively customized for my personal website. You can see the original version [here](https://grey-grouse.cloudvent.net/).
 
-Law firm themed business template for Jekyll. Browse through a [live demo](https://grey-grouse.cloudvent.net/).
-
-The Justice template was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+The template was originally made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
