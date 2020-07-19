@@ -376,3 +376,8 @@ footer {
 	@extend .testimonial-author;
 	margin: 1em 0;
 }
+
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
