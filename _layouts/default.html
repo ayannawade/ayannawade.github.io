@@ -52,13 +52,13 @@
 		{% elsif page.call_to_action == 'Contact' %}
 			<section class="quote-section">
 				<p class="container editable">
-					Feel free to connect with me by <a href="mailto:{{ site.data.company.contact_email_address }}">email</a> or through social media.
+					Feel free to connect with Ayanna by <a href="mailto:{{ site.data.company.contact_email_address }}">email</a> or through social media.
 				</p>
 			</section>
 		{% else %}
 			<section class="quote-section">
 				<p class="container editable">
-					<a href="{{ site.baseurl }}/advice/">Read some of my posts</a> to learn more about my experiences.
+					For more insights, check out Ayanna's <a href="{{ site.baseurl }}/advice/">blog posts</a>.
 				</p>
 			</section>
 		{% endif %}
@@ -92,7 +92,6 @@
 							<h2>{{ site.data.company.title }}</h2>
 						</li>
 						<li>{{ site.data.company.description }}</li>
-						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe with RSS</a></li>
 					</ul>
 				</div>
 			</div>
