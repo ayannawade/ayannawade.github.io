@@ -12,17 +12,9 @@
       link: /advice/
 - title: Social
   links:
-    - name: Facebook
-      link: http://facebook.com/
-      social_icon: Facebook
-      new_window: true
     - name: Twitter
       link: https://twitter.com/paranrmaldstro
       social_icon: Twitter
-      new_window: true
-    - name: Instagram
-      link: http://instagram.com/
-      social_icon: Instagram
       new_window: true
     - name: LinkedIn
       link: https://www.linkedin.com/in/a-ayanna-wade/
